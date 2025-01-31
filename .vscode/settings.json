@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "C:/Chimera/LabJackPython/build/lib"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:/Chimera/LabJackPython/build/lib"
+    ]
+}
